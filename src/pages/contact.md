@@ -23,7 +23,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     actions: []
-  - title: lorem-ipsum
+  - title: ''
     features:
       - title: lorem-ipsum
         content: >-
