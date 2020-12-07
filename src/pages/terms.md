@@ -1,5 +1,5 @@
 ---
-title: Privacy and Terms
+title: ''
 template: page
 ---
 
