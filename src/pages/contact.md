@@ -23,5 +23,8 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: contact_section
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 template: advanced
 ---
