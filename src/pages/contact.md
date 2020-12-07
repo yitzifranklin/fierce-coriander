@@ -38,5 +38,6 @@ sections:
         actions: []
         type: feature
     type: features_section
+  - type: contact_section
 template: advanced
 ---
