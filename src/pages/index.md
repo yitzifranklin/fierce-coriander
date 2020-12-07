@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Practice Areas
     features:
-      - title: Feature 1
+      - title: ''
         content: |-
           * Divorce
           * Child Custody & Visitation
