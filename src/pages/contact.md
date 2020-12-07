@@ -14,7 +14,7 @@ sections:
     actions: []
   - title: ''
     features:
-      - title: lorem-ipsum
+      - title: ''
         content: >-
           Contact the Law Offices of Chaim Fischweicher for experienced and
           affordable legal advice for your family law needs, including divorce,
