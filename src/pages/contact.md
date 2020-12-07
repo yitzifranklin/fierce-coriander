@@ -16,7 +16,7 @@ sections:
       any individual member of the firm does NOT establish an attorney-client
       relationship. Confidential or time-sensitive information should not be
       sent through this form.
-    has_background: true
+    has_background: false
   - type: contact_section
 template: advanced
 ---
