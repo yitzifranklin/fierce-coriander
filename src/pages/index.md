@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: This Is A Big Hero Headline
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Welcome to the Law Offices of Chaim Fischweicher, P.A., a highly-
+      respected, experienced, compassionate, Divorce and Family Law attorney.
     actions:
       - label: Learn More
         url: /features
