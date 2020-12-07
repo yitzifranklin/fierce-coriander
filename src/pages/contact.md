@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact
-    align: center
+    align: left
     subtitle: >-
       Contact the Law Offices of Chaim Fischweicher for experienced and
       affordable legal advice for your family law needs, including divorce,
