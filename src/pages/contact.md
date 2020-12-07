@@ -27,16 +27,23 @@ sections:
     features:
       - title: lorem-ipsum
         content: >-
-          ## Lorem ipsum
+          Contact the Law Offices of Chaim Fischweicher for experienced and
+          affordable legal advice for your family law needs, including divorce,
+          child custody, visitation, support, paternity, prenuptial agreements,
+          modifications and enforcements, and domestic violence. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          * Call 305-770-0703
+
+          * or via email at attyfisch@divorceaffordable.com for your
+          consultation, or fill out and submit the form below to contact an
+          attorney at our firm today.  
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          NOTE : The use of the Internet or this form for communication with the
+          firm or any individual member of the firm does NOT establish an
+          attorney-client relationship. Confidential or time-sensitive
+          information should not be sent through this form.
         align: left
         image_position: left
         actions: []
