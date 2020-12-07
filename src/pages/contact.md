@@ -22,6 +22,12 @@ sections:
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
   - title: lorem-ipsum
     features: []
     type: features_section
