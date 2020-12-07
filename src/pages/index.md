@@ -39,7 +39,8 @@ sections:
           * [Postnuptial Agreements](https://)
           * [Paternity](https://)
         align: left
-        image: images/img-1.jpg
+        image: >-
+          images/custody_care_control_children_divorce_asia_law_network-770x513.jpeg
         image_position: right
         actions:
           - label: Learn More
