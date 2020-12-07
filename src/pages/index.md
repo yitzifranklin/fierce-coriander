@@ -39,7 +39,7 @@ sections:
           * Postnuptial Agreements
           * Paternity
         align: left
-        image: images/feature.svg
+        image: images/img-1.jpg
         image_position: right
         actions:
           - label: Learn More
