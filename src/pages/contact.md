@@ -24,7 +24,23 @@ sections:
       background_image_repeat: no-repeat
     actions: []
   - title: lorem-ipsum
-    features: []
+    features:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_position: left
+        actions: []
+        type: feature
     type: features_section
   - type: contact_section
 template: advanced
